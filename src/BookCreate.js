@@ -20,7 +20,7 @@ const BookCreate = ({ onCreate }) => {
 			<h3>Add a Book</h3>
 			<form onSubmit={handleSubmit}>
 				<label htmlFor="book-title">Title</label>
-				<input className="input" type="text" id="book-titel" value={title} onChange={handleChange}/>
+				<input className="input" type="text" id="book-title" value={title} onChange={handleChange}/>
 				<button className="button" type="submit">Create!</button>
 			</form>
 		</div>
