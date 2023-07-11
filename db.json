@@ -1,12 +1,16 @@
 {
   "books": [
     {
-      "title": "asdasd",
+      "title": "Harry Potter 2",
       "id": 1
     },
     {
-      "title": "Harry Potter",
+      "title": "Dark Tower",
       "id": 2
+    },
+    {
+      "title": "Harry Potter",
+      "id": 3
     }
   ]
 }
